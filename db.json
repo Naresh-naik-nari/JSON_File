@@ -1,0 +1,52 @@
+{
+  "Employee": [
+    {
+      "id": "236b",
+      "Name": "NARESH",
+      "PhoneNo": "1234567890",
+      "Address": "KPHB",
+      "City": "HYD",
+      "State": "TG"
+    },
+    {
+      "id": "f52c",
+      "Name": "RAMESH",
+      "PhoneNo": "1234567890",
+      "Address": "KPHB",
+      "City": "HYD",
+      "State": "TG"
+    },
+    {
+      "id": "a5d9",
+      "Name": "SAI",
+      "PhoneNo": "23456",
+      "Address": "KPHB",
+      "City": "HYD",
+      "State": "TG"
+    },
+    {
+      "id": "c19f",
+      "Name": "SRINU",
+      "PhoneNo": "2345678",
+      "Address": "KPHB",
+      "City": "HYD",
+      "State": "TG"
+    },
+    {
+      "id": "2a96",
+      "Name": "ABI",
+      "PhoneNo": "4567890",
+      "Address": "KPHB",
+      "City": "HYD",
+      "State": "TG"
+    },
+    {
+      "id": "0689",
+      "Name": "praveen",
+      "PhoneNo": "3456789",
+      "Address": "kphb",
+      "City": "hyd",
+      "State": "TG"
+    }
+  ]
+}
