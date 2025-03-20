@@ -1,6 +1,6 @@
 let container = document.createElement("div")
 container.className = "container"
-let url = "https://plausible-acute-bittersweet.glitch.me/items"
+let url = "https://nimble-plume-chicory.glitch.me/items"
 
 let titleInput = document.getElementById("title")
 let priceInput = document.getElementById("price")
